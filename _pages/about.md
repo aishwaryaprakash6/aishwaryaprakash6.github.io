@@ -1,11 +1,31 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: single
+title: "About the Lab"
+permalink: /about/
 ---
+
+The Prakash Lab is part of the Department of Biochemistry and Molecular Biology  
+at the University of South Alabama.
+
+We are broadly interested in understanding how cells maintain the integrity of their genomes.  
+Our work focuses on the **structural biology of DNA repair proteins**, particularly in the context of:
+
+- **Base excision repair (BER)**
+- **NEIL glycosylases and their regulation**
+- **Repair of oxidative DNA damage**
+- **Mitochondrial DNA repair**
+- **Links between DNA repair and aging, cancer, and neurodegeneration**
+- **Mismatch Repair (MMR)**
+- **Lynch Syndrome, a Hereditary Cancer Syndrome impacting 1 in 270 individuals**
+- **Environmental toxicants such as heavy metals and their impacts on DNA Repair**
+
+Our lab integrates **Cryo-Electron Microscopy (Cryo-EM)**, **X-ray Crystallography**,  
+and biochemical/biophysical methods with cutting-edge molecular biology.
+
+We aim to generate mechanistic insights that can inform therapeutic strategies for  
+**cancer treatment** and **neurodegenerative diseases**.
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
