@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Prakash Lab
+title: "Prakash Lab"
 ---
 
 # Welcome to the Prakash Lab
