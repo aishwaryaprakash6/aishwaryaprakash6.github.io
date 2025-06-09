@@ -3,9 +3,6 @@ layout: single
 title: "Lab Photos"
 permalink: /photos/
 ---
-
-# Lab Photos
-
 Here are some fun photos of our lab over the years!
 
 <p align="center">
