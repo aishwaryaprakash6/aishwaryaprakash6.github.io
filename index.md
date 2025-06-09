@@ -3,7 +3,8 @@ layout: home
 title: "Prakash Lab"
 ---
 <div style="text-align: center;">
-# Welcome to the Prakash Lab
+
+  # Welcome to the Prakash Lab
 
 <p align="center">
   <img src="../images/202306labspaceptero2.PNG" width="500px">
