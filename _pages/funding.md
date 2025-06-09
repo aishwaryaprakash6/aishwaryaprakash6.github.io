@@ -22,7 +22,7 @@ Our lab is grateful for generous support from the following organizations:
 
 ### Past Grants
 
-- **NIH R21** — NEIL1 and neurodegeneration (2022–2024)
+- **NIH/S10** 1S10OD024978 - Acquisition of a cryo-electron microscope (UAB; 2020)
 - **University of South Alabama Intramural Grant** — Base excision repair (2021–2022)
 
 ---
