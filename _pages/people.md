@@ -43,6 +43,10 @@ Associate Professor, PI
 - Megan Patterson
 - Megan Rasmussen --> now a medical student at USA
 - Saku Cui --> now an undergraduate at Boston University
-- Kai Kahyeon --> currently a high school student at ASMS, Mobile, AL
+- Jeon (Kai) Kahyeon --> currently a high school student at ASMS, Mobile, AL
+- Olivia Ryan --> Currently an undegraduate at Vanderbilt
+- Natalye Bordelon
+- Areej Siddiqui --> Currently an undergraduate at UMS Wright, Mobile, AL
+- 
 
 ---
