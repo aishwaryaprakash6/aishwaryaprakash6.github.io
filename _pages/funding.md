@@ -25,7 +25,6 @@ Our lab is grateful for generous support from the following organizations:
 - **NIH - R00ES024417** Repair of Environmentally and Endogenously Induced Oxidized Mitochondrial-DNA Damage (2016-2019)
 - **NIH - K99ES024417** Repair of Environmentally and Endogenously Induced Oxidized Mitochondrial-DNA Damage (2014-2016)
 
-
 ---
 
 # Acknowledgments
