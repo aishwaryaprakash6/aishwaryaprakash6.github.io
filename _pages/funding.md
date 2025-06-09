@@ -4,8 +4,6 @@ title: "Funding Sources"
 permalink: /funding/
 ---
 
-# Funding Sources
-
 Our lab is grateful for generous support from the following organizations:
 
 ### Current Grants and Funding
