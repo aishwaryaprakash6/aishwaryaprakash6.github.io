@@ -5,6 +5,10 @@ title: "Prakash Lab"
 
 # Welcome to the Prakash Lab
 
+<p align="center">
+  <img src="../images/202306labspaceptero 2.PNG" width="500px">
+</p>
+
 We are a research group in the Department of Biochemistry and Molecular Biology  
 at the University of South Alabama.
 
