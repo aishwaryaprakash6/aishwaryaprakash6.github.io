@@ -10,6 +10,9 @@
 main:
   - title: "Publications"
     url: /publications/   
+
+  - title: "Funding Sources"
+    url: "/funding/"
     
   - title: "CV"
     url: /cv/
