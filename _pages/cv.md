@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: Single
 title: "Curriculum Vitae"
 permalink: /cv/
 ---
