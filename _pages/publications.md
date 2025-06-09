@@ -42,14 +42,14 @@ Sharma N, Chakravarthy S, Longley MJ, Copeland WC, Prakash A#. The C-terminal ta
 - Deng X*, Prakash A*, Dhar K, Baia GS, Kolar C, Oakley GG, Borgstahl GE. Human replication protein A-Rad52-single-stranded DNA complex: stoichiometry and evidence for strand transfer regulation by phosphorylation. Biochemistry. 2009 Jul 21;48(28):6633-43. PubMed PMID: 19530647; PubMed Central PMCID: PMC2710861. 
 * These authors contributed equally to this work. 
 
-Manuscripts submitted/ in preparation 
+**Manuscripts submitted/ in preparation** 
 
 - Balu KE, Almohdar D, Ratcliffe J, Tang Q, Parwal T, Prakash A, and Cağlayan, M. Structural and biochemical characterization of LIG1 during mutagenic nick sealing of oxidatively damaged ends at the final step of DNA repair. In revision. NAR. My Role: Structure solving and refinement. 
 - Chokshi S, Lee K, Elkadi O, Scalici J, Prakash A. Geo-MX analysis reveals dramatic alterations in gene expression between Lynch-associated and sporadic endometrial cancers. In preparation. My role: Data collection, processing, and manuscript writing. 
 - Thompson MK, Yoshie N, Price J, Prakash A#. High-resolution structure of the full-length NEIL1 enzyme bound to a novel nanobody. In preparation for submission to NSMB. #Co-Corresponding Author.  
 - Sharma N, Arrington JF, Lange C, Pasala MS, Prakash A#. The NEIL2 DNA glycosylase gets (de)acetylated in the mitochondria by the concerted action of SIRT3 and ACAT1. In preparation. #Corresponding Author.  
 
-Manuscripts submitted to bioR𝜒iv
+**Manuscripts submitted to bioR𝜒iv**
 
 - Daly G, Prakash A, Benton R, Johnston T. A Method for Computationally Constructing Eukaryotic Synthetic Signal Peptide Sequences.  2021. My role: Data analysis, interpretation, manuscript editing. 
 
