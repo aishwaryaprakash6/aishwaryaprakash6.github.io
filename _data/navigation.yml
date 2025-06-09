@@ -13,6 +13,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Lab Members"
+    url: "/people/"
     
   - title: "Lab Photos"
     url: "/photos/"
