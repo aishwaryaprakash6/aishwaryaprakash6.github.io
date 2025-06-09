@@ -2,7 +2,7 @@
 layout: home
 title: "Prakash Lab"
 ---
-
+<div style="text-align: center;">
 # Welcome to the Prakash Lab
 
 <p align="center">
