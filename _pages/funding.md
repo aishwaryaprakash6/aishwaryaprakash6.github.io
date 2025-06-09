@@ -8,7 +8,7 @@ permalink: /funding/
 
 Our lab is grateful for generous support from the following organizations:
 
-### Current Grants
+### Current Grants and Funding
 
 - **NIH R01** NIH/NIEHS 1R01ES03084-01 Repair of Environmentally Induced Mitochondrial DNA Damage (2019-present)
 - **American Cancer Society** — Mutagenic Inhibition of DNA Repair by Cadmium (2025–2029)
