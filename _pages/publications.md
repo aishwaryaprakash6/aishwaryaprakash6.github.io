@@ -6,8 +6,7 @@ author_profile: true
 ---
 **Peer-reviewed Publications, Review Articles, Editorials, Conference Papers, and Book Chapters**
 
-- **Thompson MK, Eggers MH, Flores D, Valenzuela I, Zhengrong Y, Andrews JF, Johnsten T, Prakash A#. Development and characterization of a novel NEIL1 Nanobody. Accepted, May 17th, 2025. DNA Repair. #Corresponding Author.**
-
+- Thompson MK, Eggers MH, Flores D, Valenzuela I, Zhengrong Y, Andrews JF, Johnsten T, Prakash A#. Development and characterization of a novel NEIL1 Nanobody. Accepted, May 17th, 2025. DNA Repair. #Corresponding Author.
 - Al-Rahahleh RQ, Saville KM, Andrews JF, Wu Z, Koczor CA, Prakash A, and Sobol RW. Overexpression of the WWE domain of RNF146 modulates poly-(ADP)-ribose dynamics at sites of DNA damage. Accepted, May 6th, 2025. DNA Repair. My Role: Structural Analysis and WWE domain mapping. 
 - Thompson MK, Eggers MH, Benton RG, Johnsten T, Prakash A#. Artificial Targeting of the NEIL1 DNA Glycosylase to the Mitochondria. Environ Mol Mutagen. 2024 Oct;65(8):243-250. PMID: 39324705. PubMed Central PMCID: pending. #Corresponding Author.  
 - Thompson MK, Sharma N, Thorn A, Prakash A#. Deciphering the crystal structure of a novel nanobody against the NEIL1 DNA glycosylase. Acta Crystallogr D Structural Biol. 2024 Feb 1;80(Pt 2):137-146. PMID: 38289715; PubMed Central PMCID: PMC10836396.  #Corresponding Author. 
