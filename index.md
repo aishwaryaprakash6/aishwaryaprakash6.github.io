@@ -22,10 +22,15 @@ and how they are involved in **cancer**, **aging**, and **neurodegeneration**.
 Our approaches include:
 
 - **Cryo-Electron Microscopy (Cryo-EM)**
+
 - **X-ray Crystallography**
+
 - **Biochemical and Biophysical tools**
+
 - **Nanobody development**
+
 - **Mitochondrial biology**
 
 We are passionate about advancing knowledge of DNA repair and its impact on human disease.  
+
 Welcome to our lab website!
