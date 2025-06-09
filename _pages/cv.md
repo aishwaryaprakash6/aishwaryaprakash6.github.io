@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
+You can download my full CV here:
 
+[Download CV (PDF)](/files/250522_Prakash_CV.pdf)
 {% include base_path %}
 
 Education
