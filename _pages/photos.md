@@ -13,7 +13,7 @@ Here are some fun photos of our lab over the years!
 </p>
 
 <p align="center">
-  <img src="/images/MG_0746.heic" width="500px">
+  <img src="/images/MG_0746.jpg" width="500px">
 </p>
 
 <p align="center">
