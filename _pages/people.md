@@ -47,6 +47,6 @@ Associate Professor, PI
 - Olivia Ryan --> Currently an undegraduate at Vanderbilt
 - Natalye Bordelon
 - Areej Siddiqui --> Currently an undergraduate at UMS Wright, Mobile, AL
-- 
+- Robert Evans --> now a medical student at USA
 
 ---
