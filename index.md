@@ -14,10 +14,10 @@ We are a research group in the Department of Biochemistry and Molecular Biology
 at the University of South Alabama.
 
 Our lab is focused on understanding the structural biology of DNA repair proteins,  
-with a particular interest in the base excision repair (BER) pathway.
+with a particular interest in the base excision repair (BER) and mismatch repair (MMR) pathways.
 
 We study how repair enzymes such as NEIL glycosylases help maintain genome stability  
-and how they are involved in **cancer**, **aging**, and **neurodegeneration**.
+and how they are involved in **cancer**, **aging**, and **neurodegeneration**. We also study how MMR proteins function in the context of a hereditary cancer syndrome called Lynch Syndrome. 
 
 Our approaches include:
 
