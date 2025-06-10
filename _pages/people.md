@@ -33,20 +33,20 @@ Associate Professor, PI
 
 # Lab Alumni
 
-- Dr. Nidhi Sharma → now Research Associate at Uconn Health.
-- Dr. Brandon D'Arcy → now Scientist at Kimia Therapeutics, San Francisco, CA
-- Dr. Mohammad Saki
-- Adam Skelton -> now a medical student at UAB
-- Monica Pasala --> now a resident at UAB
-- Israel Valenzuela --> now a medical student at USA
-- Mark Eggers --> now a medical student at VCOM, Auburn, Alabama
-- Megan Patterson
-- Megan Rasmussen --> now a medical student at USA
-- Saku Cui --> now an undergraduate at Boston University
-- Jeon (Kai) Kahyeon --> currently a high school student at ASMS, Mobile, AL
-- Olivia Ryan --> Currently an undegraduate at Vanderbilt
-- Natalye Bordelon
-- Areej Siddiqui --> Currently an undergraduate at UMS Wright, Mobile, AL
-- Robert Evans --> now a medical student at USA
+- Dr. Nidhi Sharma --> Former post-doc --> now Research Associate at Uconn Health.
+- Dr. Brandon D'Arcy --> Former post-doc --> now Scientist at Kimia Therapeutics, San Francisco, CA
+- Dr. Mohammad Saki --> Former post-doc
+- Adam Skelton -> Former tech I --> now a medical student at UAB
+- Monica Pasala --> Former Undergraduate (with Honors) --> now a resident at UAB
+- Israel Valenzuela --> Former Master's Student --> now a medical student at USA
+- Mark Eggers --> Fomer Master's Student and Tech II --> now a medical student at VCOM, Auburn, Alabama
+- Megan Patterson --> Former graduate student
+- Megan Rasmussen --> Former summer research medical student --> now a medical student at USA
+- Saku Cui --> Former high school summer research student (ACS project SEED) --> now an undergraduate at Boston University
+- Jeon (Kai) Kahyeon --> Former high school summer research student --> currently a high school student at ASMS, Mobile, AL
+- Olivia Ryan --> Former high school summer research student --> Currently an undegraduate at Vanderbilt
+- Natalye Bordelon --> Former Master's Student
+- Areej Siddiqui --> Former high school summer research student --> Currently an undergraduate at UMS Wright, Mobile, AL
+- Robert Evans --> Former undergrad summer research student --> now a medical student at USA
 
 ---
