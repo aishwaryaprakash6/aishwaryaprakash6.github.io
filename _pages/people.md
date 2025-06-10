@@ -36,6 +36,8 @@ Associate Professor, PI
 - Dr. Nidhi Sharma --> Former post-doc --> now Research Associate at Uconn Health.
 - Dr. Brandon D'Arcy --> Former post-doc --> now Scientist at Kimia Therapeutics, San Francisco, CA
 - Dr. Mohammad Saki --> Former post-doc
+- Dr. Vandana Soon --> Former post-doc
+- Jennifer Arrington --> Former Lab Tech 
 - Adam Skelton -> Former tech I --> now a medical student at UAB
 - Monica Pasala --> Former Undergraduate (with Honors) --> now a resident at UAB
 - Israel Valenzuela --> Former Master's Student --> now a medical student at USA
