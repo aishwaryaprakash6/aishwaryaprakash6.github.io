@@ -43,7 +43,7 @@ Associate Professor, PI
 - Megan Patterson --> Former graduate student
 - Megan Rasmussen --> Former summer research medical student --> now a medical student at USA
 - Saku Cui --> Former high school summer research student (ACS project SEED) --> now an undergraduate at Boston University
-- Jeon (Kai) Kahyeon --> Former high school summer research student --> currently a high school student at ASMS, Mobile, AL
+- Kahyeon (Kai) Jeon --> Former high school summer research student --> currently a high school student at ASMS, Mobile, AL
 - Olivia Ryan --> Former high school summer research student --> Currently an undegraduate at Vanderbilt
 - Natalye Bordelon --> Former Master's Student
 - Areej Siddiqui --> Former high school summer research student --> Currently an undergraduate at UMS Wright, Mobile, AL
